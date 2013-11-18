@@ -2,6 +2,8 @@
 
 forked from <a href="https://github.com/qazwsxedc121/jq_skywheel">qazwsxedc121/jq_skywheel</a>. Add IE 10 support.
 
+<a href="http://www.jqueryscript.net/demo/jQuery-Cover-Flow-Like-List-Animation-Plugin-skywheel/">Demo</a>
+
 ## How to use
 
 html:
