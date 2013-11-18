@@ -1,5 +1,7 @@
 # A coverflow-like jquery plugin.
 
+forked from <a href="https://github.com/qazwsxedc121/jq_skywheel">qazwsxedc121/jq_skywheel</a>. Add IE 10 support.
+
 ## How to use
 
 html:
@@ -24,6 +26,6 @@ $('#demo').skywheel();
 
 Requirements: jquery
 
-Browsers: Firefox / Chrome / Safari
+Browsers: Firefox / Chrome / Safari / IE10
 
 There must be >= 5 <li> elements in the list!
